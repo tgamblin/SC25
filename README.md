@@ -1,5 +1,5 @@
-# SC24
-SC24 Workshop: High Performance Python for Science at Scale (HPPSS)
+# SC25
+SC25 Workshop: High Performance Python for Science at Scale (HPPSS)
 
 ## How to publish updates
 
