@@ -34,7 +34,7 @@ HPPSS will take place on Monday, November 17th, 2-5:30 CST.
     Call for Abstracts! <callfordemos.rst>
     Schedule <schedule.rst>
     SC23 Workshop Site <https://hppss.github.io/SC23>
-    SC24 Workhsop Site <https://hppss.github.io/SC24>
+    SC24 Workshop Site <https://hppss.github.io/SC24>
 
 
 Diversity and Inclusion
